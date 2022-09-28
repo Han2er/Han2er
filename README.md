@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Nikoloz**
 - 👀 I’m interested in _Front-End_ Development
-- 🌱 I’m currently learning **HTML CSS JS ReactJS**
+- 🌱 I’m currently learning **HTML CSS JS React Angular...**
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: han2er@live.com
 
